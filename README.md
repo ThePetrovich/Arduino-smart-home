@@ -1,5 +1,5 @@
 # Arduino-smart-home
-Умный дом на базе Arduino Leonardo Ethernet с отправкой данных с датчиков на \nUbidots
+Умный дом на базе Arduino Leonardo Ethernet с отправкой данных с датчиков на Ubidots<br>
 Библиотеки:
 - Ubidots-ethernet
 - DHT
@@ -7,8 +7,8 @@
 - Ethernet2
 - Adafruit_Sensor
 
-Порты можно посмотреть в коде, подключение выполнялось с помощью макетной платы и Troyka Shield.
-\nУстройства:
+Порты можно посмотреть в коде, подключение выполнялось с помощью макетной платы и Troyka Shield.<br>
+Устройства:
 - 1x DHT11 Troyka
 - 1x MQ-7 Troyka
 - 2x Датчик линии цифровой Troyka
