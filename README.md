@@ -1,5 +1,5 @@
 # Arduino-smart-home
-Умный дом на базе Arduino Leonardo Ethernet с отправкой данных с датчиков на Ubidots<br>
+Умный дом на базе Arduino Leonardo Ethernet с отправкой данных с датчиков на Ubidots.<br>
 Библиотеки:
 - Ubidots-ethernet
 - DHT
